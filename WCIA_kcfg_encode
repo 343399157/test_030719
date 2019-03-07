@@ -1,0 +1,6 @@
+#include <stdio.h>
+
+void wcia_kcfg_encode2tlv()
+{
+  printf("New file\n");
+}
