@@ -1,4 +1,5 @@
-include <stdio.h>
+#include <stdio.h>
+#include <string.h>
 #define MAX(X, Y) (X) > (Y) ? (X):(Y)
 int main()
 {
